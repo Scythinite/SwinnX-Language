@@ -1,0 +1,2 @@
+when.run(createbat)launcher.net
+whencreate=loader

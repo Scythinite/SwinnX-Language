@@ -1,0 +1,4 @@
+language.typecreate = .swx
+written = .py
+loader = SwinnX.swx
+neededFiles = SWX_Stabilizer(createjava);
